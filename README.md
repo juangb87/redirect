@@ -1,0 +1,2 @@
+# redirect
+affiliate redirect
